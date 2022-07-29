@@ -18,7 +18,7 @@ Python module for more convenient work with GitHub.
 ```py
 import pyGitConnect
 
-# Creating Ures-object
+# Creating User-object
 userGitHub = pyGitConnect.User(
     token="YOUR_TOKEN",
     username="YOUR_USERNAME_ON_GITHUB",
