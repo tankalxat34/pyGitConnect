@@ -13,6 +13,14 @@ Python module for more convenient work with GitHub.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/tankalxat34/pygitconnect?style=social)](https://github.com/tankalxat34/pygitconnect)
 
+# Installing
+
+Use this command for install actual version:
+
+```
+pip install pygitconnect
+```
+
 # Example of use
 
 ```py
