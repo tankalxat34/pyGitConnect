@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyGitConnect"
-version = "0.1.1"
+version = "0.1.2"
 description = "Simple API interface for more convenient work with GitHub service"
 authors = ["tankalxat34 <tankalxat34@gmail.com>"]
 license = "MIT"
@@ -12,6 +12,7 @@ keywords = ["github", "git", "package"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+requests = "^2.20.0"
 
 [tool.poetry.dev-dependencies]
 
